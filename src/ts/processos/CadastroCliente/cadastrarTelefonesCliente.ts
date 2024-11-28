@@ -26,7 +26,7 @@ export default class CadastrarTelefonesCliente extends Processo {
                     this.execucao = false
                     break
                 default:
-                    console.log('Opção não entendida :(')
+                    console.log('Opção não entendida.')
             }
         }
     }
